@@ -14,7 +14,7 @@
 * [QuantumultX.conf](https://raw.githubusercontent.com/FLychicken666/QuantumultX/master/QuantumultX.conf)
 
 
-### 本地配置：
+
 
 
 ### 远程配置：
