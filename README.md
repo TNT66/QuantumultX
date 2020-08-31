@@ -91,5 +91,13 @@
 
 * [@lowking](https://github.com/lowking/Scripts)
 
+* [@wangdelu2020](https://github.com/wangdelu2020/hongliyu)
+
+* [@dompling](https://github.com/dompling/Script)
+
+
+
+
+
 
 
