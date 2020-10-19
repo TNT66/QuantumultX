@@ -174,9 +174,9 @@ if (verify) {
 
       $.log(birthdayMessage);
       if ($.env.isSurge) {
-        $.notify("嘿，在干嘛呀？", "", birthdayMessage);
+        $.notify("晚安全世界", "", birthdayMessage);
       } else {
-        $.notify("嘿，在干嘛呀？", "", birthdayMessage, {
+        $.notify("晚安全世界", "", birthdayMessage, {
           "media-url": mediaImg,
         });
       }
