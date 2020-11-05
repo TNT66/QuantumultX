@@ -1,0 +1,61 @@
+{
+  "id": "whyour.app.sub",
+  "name": "whyour应用订阅",
+  "author": "@whyour",
+  "icon": "https://avatars2.githubusercontent.com/u/22700758?s=88&u=26d911ccb8345dac955238c2ed6c572892ef924a&v=4",
+  "repo": "https://github.com/whyour/hundun",
+  "apps": [
+    {
+      "id": "shareCode",
+      "name": "互助码",
+      "keys": ["zd_shareCode1","nc_shareCode1","mc_shareCode1","zd_shareCode2","nc_shareCode2","mc_shareCode2"],
+      "settings": [
+        {
+          "id": "zd_shareCode1",
+          "name": "种豆得豆互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "种豆得豆互助码.你自己的互助码."
+        },
+        {
+          "id": "nc_shareCode1",
+          "name": "京东农场互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "京东农场互助码.你自己的互助码."
+        },
+        {
+          "id": "mc_shareCode1",
+          "name": "京东萌宠互助码1",
+          "val": "",
+          "type": "text",
+          "desc": "京东萌宠互助码.你自己的互助码."
+        },
+        {
+          "id": "zd_shareCode2",
+          "name": "种豆得豆互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "种豆得豆互助码.你自己的互助码."
+        },
+        {
+          "id": "nc_shareCode2",
+          "name": "京东农场互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "京东农场互助码.你自己的互助码."
+        },
+        {
+          "id": "mc_shareCode2",
+          "name": "京东萌宠互助码2",
+          "val": "",
+          "type": "text",
+          "desc": "京东萌宠互助码.你自己的互助码."
+        }
+      ],
+      "author": "@whyour",
+      "repo": "https://github.com/whyour/hundun/blob/master/quanx/shareCode-auto.js",
+      "script": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/shareCode-auto.js",
+      "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/Github.png", "https://raw.githubusercontent.com/58xinian/icon/master/Github_mini.png"]
+    }
+  ]
