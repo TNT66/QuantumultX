@@ -2,8 +2,10 @@
     "name": "FLychicken666",
     "description": "自用TASK  oh  yeah",
     "task":[
- "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
- "10-20/5 12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js, tag=京东直播, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png , enabled=true",
+    
+ "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_get_share_code.js, tag=京东助力码, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+ "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.pn, enabledtrue",
+ "10-20/5 12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js, tag=京东直播, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.pn, enabled=true",
  "10 2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_lotteryMachine.png, enabled=true",
  "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js, tag=数码加购京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
  "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js, tag=直播红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
