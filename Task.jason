@@ -2,6 +2,8 @@
     "name": "FLychicken666",
     "description": "自用TASK  oh  yeah",
     "task":[
+    
+ "0 2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_cash.js, tag=签到领现金, enabled=true", 
  "1 8,12,18 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bookshop.js, tag=口袋书店, enabled=true",  
  "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_get_share_code.js, tag=京东助力码, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
  "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.pn, enabledtrue",
